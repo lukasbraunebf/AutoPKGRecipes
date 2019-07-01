@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads  the current release version of SourceTree.</string>
 	<key>Identifier</key>
-	<string>com.catsit.download.SourceTree</string>
+	<string>com.ebf.download.SourceTree</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
