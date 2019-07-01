@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest OpenOffice version and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.catsit.pkg.OpenOffice</string>
+	<string>com.ebf.pkg.OpenOffice</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -14,7 +14,7 @@
 	<key>MinimumVersion</key>
 	<string>0.2.9</string>
 	<key>ParentRecipe</key>
-	<string>com.catsit.download.OpenOffice</string>
+	<string>com.ebf.download.OpenOffice</string>
 	<key>Process</key>
 	<array>
 		<dict>
