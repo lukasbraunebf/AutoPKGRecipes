@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads  the current release version of GitKraken and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.catsit.pkg.GitKraken</string>
+	<string>com.ebf.pkg.GitKraken</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -14,7 +14,7 @@
 	<key>MinimumVersion</key>
 	<string>0.6.1</string>
 	<key>ParentRecipe</key>
-	<string>com.catsit.download.GitKraken</string>
+	<string>com.ebf.download.GitKraken</string>
 	<key>Process</key>
 	<array>
 		<dict>
