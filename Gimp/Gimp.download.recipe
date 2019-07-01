@@ -6,7 +6,7 @@
 	<string>Downloads the latest version of GIMP from gimp.org.
 	Note: Code signature verification cannot be done on GIMP.app at this time.</string>
 	<key>Identifier</key>
-	<string>com.catsit.download.GIMP</string>
+	<string>com.ebf.download.GIMP</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

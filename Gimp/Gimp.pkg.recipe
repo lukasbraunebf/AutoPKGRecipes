@@ -5,14 +5,14 @@
 	<key>Description</key>
 	<string>Downloads the latest version of GIMP from gimp.org and builds a package.</string>
 	<key>Identifier</key>
-	<string>com.catsit.pkg.GIMP</string>
+	<string>com.ebf.pkg.GIMP</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
 		<string>GIMP</string>
 	</dict>
 	<key>ParentRecipe</key>
-	<string>com.catsit.download.GIMP</string>
+	<string>com.ebf.download.GIMP</string>
 	<key>MinimumVersion</key>
 	<string>0.5.2</string>
 	<key>Process</key>
