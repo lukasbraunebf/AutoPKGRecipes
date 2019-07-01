@@ -1,4 +1,3 @@
 # Repository für Recipes in AutoPKG
 
-Abschlussprojekt Sommer 2018 
-Lukas Braun
+Zum testen der Funktionalität von AutoPKG und MobileIron Core
